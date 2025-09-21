@@ -17,18 +17,17 @@ export const ThemeContext = createContext<ThemeContextProps | undefined>(
 const getFromLocalStorage = () => {
   if (typeof window !== "undefined") {
     const value = localStorage.getItem("theme");
-    return value || "light";
+    
+    return value || "dark";
   }
+  return "dark"; 
 };
 
 export const ThemeContextProvider = ({ children }: ThemeProviderProps) => {
-  const [theme, setTheme] = useState<string>(() => {
-    const value = getFromLocalStorage();
-    return value || "light";
-  });
+  const [theme, setTheme] = useState<string>(() => getFromLocalStorage());
 
   const toggle = () => {
-    setTheme(theme === "light" ? "dark" : "light");
+    setTheme(prev => (prev === "light" ? "dark" : "light"));
   };
 
   useEffect(() => {
