@@ -2,17 +2,57 @@
 
 ![Muhammad Yasir Portfolio](./public/portfolio-banner.jpeg)
 
-A modern, responsive and SEO-friendly **Next.js** based portfolio website for **Muhammad Yasir**, showcasing skills, experience, and projects as a frontend/web developer.
+A modern, responsive and SEO-friendly **Next.js** based personal portfolio web application showcasing my skills, projects and experience as a Front-End / Web Developer.
+
+---
+
+## 📝 Overview
+
+The **Muhammad Yasir – Personal Portfolio** is a Next.js web application designed to provide an interactive and informative platform to present my skills, projects, and experience.  
+
+It features both light and dark themes so visitors can customize their viewing experience.  
+All the content on this portfolio is personalized and tailored to highlight my expertise and achievements.
+
+---
+
+## 🌐 Live Website
+
+Explore the live website here: [Muhammad Yasir – Personal Portfolio](https://yasir-portfolio-nextjs.vercel.app/)
+
+Connect with me on LinkedIn: [Muhammad Yasir](https://www.linkedin.com/in/yasirweb/)
 
 ---
 
 ## ✨ Features
 
-- ⚡ **Next.js** (SSR + SSG) for blazing fast performance  
-- 🎨 **Tailwind CSS** for modern, responsive design  
-- 📂 **Project showcase** with dynamic pages  
-- 🔍 SEO-optimized with Open Graph & meta tags  
-- 🌐 Hosted on **Vercel**  
+- 🎨 **Custom Content** – Every section is customized to highlight my skills, projects, and achievements.  
+- 🌓 **Light and Dark Mode** – Choose your preferred viewing mode with a user-friendly theme switcher. Supports both automatic mode (system preference) and manual mode.  
+- 📬 **Contact Form** – Easily get in touch with me using the contact form. Messages reach me directly and I respond as soon as possible.  
+
+---
+
+## 🌓 Light and Dark Mode
+
+My portfolio supports both light and dark modes, giving visitors the flexibility to choose their preferred viewing experience.
+
+- **Automatic Mode:** Follows your system preference by default.  
+- **Manual Mode:** Manually toggle between light and dark themes using the built-in theme switcher.
+
+### ⚙️ Implementation Details
+
+The light and dark mode implementation is achieved using the `useContext` API.  
+Your theme choice is stored in context so the setting persists across pages.
+
+### 📚 Usage
+
+To maintain a consistent dark mode experience, embedded content or showcased projects also follow dark mode styling.
+
+---
+
+## 🤝 Contributing
+
+Suggestions to enhance and optimize the light/dark mode or add new features are welcome!  
+Open an issue or pull request if you’d like to contribute improvements.
 
 ---
 
@@ -46,14 +86,9 @@ muhammad-yasir-portfolio/
 ├── styles/             # Global styles
 └── README.md
 
-git clone https://github.com/<your-username>/muhammad-yasir-portfolio.git
+git clone [https://github.com/<your-username>/muhammad-yasir-portfolio.git](https://github.com/myasirweb/yasir-portfolio-nextjs)
 cd muhammad-yasir-portfolio
 npm install
 npm run dev
 npm run build
 npm start
-
-📝 License
-
-This project is owned by Muhammad Yasir.
-All rights reserved.
