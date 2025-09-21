@@ -1,6 +1,6 @@
 # 🌐 Muhammad Yasir – Personal Portfolio (Next.js)
 
-![Muhammad Yasir Portfolio](./public/images/portfolio-banner.jpg)
+![Muhammad Yasir Portfolio](./public/portfolio-banner.jpeg)
 
 A modern, responsive and SEO-friendly **Next.js** based portfolio website for **Muhammad Yasir**, showcasing skills, experience, and projects as a frontend/web developer.
 
