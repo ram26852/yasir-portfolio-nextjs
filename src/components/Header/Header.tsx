@@ -2,7 +2,7 @@ import { navItems } from "@/data/static-data";
 import Link from "next/link";
 import React from "react";
 import styles from "./header.module.css";
-// import ThemeToggle from "../ThemeToggle/ThemeToggle";
+import ThemeToggle from "../ThemeToggle/ThemeToggle";
 import MobileMenu from "../MobileMenu/MobileMenu";
 
 const Header = () => {
@@ -15,7 +15,7 @@ const Header = () => {
             <h2 className={styles.title}>{item.title}</h2>
           </Link>
         ))}
-      {/* <ThemeToggle /> */}
+      <ThemeToggle />
       <div className={styles.mobileMenu}>
         <MobileMenu />
       </div>
